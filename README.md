@@ -1,0 +1,1 @@
+This is my playground for learning how assembly works. I'm mainly just playing with how to create a Master Boot Record (MBR), and testing it with an emulated CPU using QEMU.
